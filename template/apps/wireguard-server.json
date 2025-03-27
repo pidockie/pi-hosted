@@ -12,10 +12,10 @@
 			"name": "WG_HOST"
 		},
 		{
-			"default": "ENTER AN ADMIN PASSWORD",
-			"description": "Leave blank to access WebUI without loggin",
-			"label": "PASSWORD",
-			"name": "PASSWORD"
+			"default": "ENTER AN HASH FOR THE ADMIN PASSWORD",
+			"description": "Enter an hash or leave blank to access WebUI without loggin",
+			"label": "PASSWORD_HASH",
+			"name": "PASSWORD_HASH"
 		},
 		{
 			"default": "51820",
