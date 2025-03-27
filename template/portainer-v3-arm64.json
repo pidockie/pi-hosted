@@ -10307,10 +10307,10 @@
 					"name": "WG_HOST"
 				},
 				{
-					"default": "ENTER AN ADMIN PASSWORD",
-					"description": "Leave blank to access WebUI without loggin",
-					"label": "PASSWORD",
-					"name": "PASSWORD"
+					"default": "ENTER THE HASH OF THE ADMIN PASSWORD",
+					"description": "Enter the hash of the admin password",
+					"label": "PASSWORDHASH",
+					"name": "PASSWORDHASH"
 				},
 				{
 					"default": "51820",
